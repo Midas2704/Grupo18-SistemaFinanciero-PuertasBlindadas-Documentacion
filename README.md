@@ -7,7 +7,11 @@ Aquí se conservan los informes, presentaciones, anexos, diagramas, planificaci�
 ## Enlaces principales
 
 - [Código fuente e instalación local](https://github.com/Midas2704/Grupo18-SistemaFinanciero-PuertasBlindadas-Codigo)
-- [Videos del proyecto en Google Drive](https://drive.google.com/drive/folders/10XG32U7vbEGat61P43QDJm6zSbIfugd_?usp=sharing)
+- [Documentación completa en Google Drive](https://drive.google.com/drive/folders/1_VAhi2zQ-d-GiHYkVVObDHCYBD9TZJg4)
+- [Videos del Incremento 1](https://drive.google.com/drive/folders/1ANmfttmy4ZR-0yvh-UClqUu2jh6QOc_s)
+- [Videos del Incremento 2](https://drive.google.com/drive/folders/1FYwpY0Jxy9iva4rw8d-NX-rhOwfAdJZm)
+- [Videos del Incremento 3](https://drive.google.com/drive/folders/14wAXI6FG2U_wZlUnQgTNgd1OFEitixXI)
+- [Videos del Incremento 4](https://drive.google.com/drive/folders/10XG32U7vbEGat61P43QDJm6zSbIfugd_)
 
 ## Integrantes
 
@@ -24,8 +28,11 @@ Aquí se conservan los informes, presentaciones, anexos, diagramas, planificaci�
 | --- | --- | --- |
 | **Documento 0** | Antecedentes, presentación, currículums, planificación, levantamiento y análisis iniciales | Disponible |
 | **Incremento 1** | Informe, presentación, backlog, retrospectiva, diagramas y anexos técnicos | Disponible |
+| **Incremento 2** | Pagos, seguridad, proveedores, presentación, diagramas, evidencias y anexos | Disponible |
+| **Incremento 3** | Honorarios, remuneraciones, panel financiero, crédito, presentación, diagramas y anexos | Disponible |
+| **Incremento 4** | Indicadores financieros, auditoría, manuales, presentación, diagramas y anexos | Disponible |
 
-La estructura del repositorio se actualizará a medida que se incorporen formalmente los entregables de los siguientes incrementos.
+Los videos se mantienen en Google Drive porque superan el límite de tamaño habitual de GitHub. El resto de los entregables se conserva directamente en este repositorio.
 
 ---
 
@@ -98,6 +105,52 @@ El incremento incluye:
 - árbol de navegación;
 - guía de creación del modelo de datos.
 
+## Incremento 2
+
+El segundo incremento incorpora la documentación asociada a pagos, administración de accesos y operaciones con proveedores.
+
+### Contenido principal
+
+- registro, clasificación, conciliación, anulación y reversión de pagos;
+- medios de pago, cuotas, conversión USD/CLP y saldos a favor;
+- comprobantes, morosidad y actualización de saldos;
+- registro y administración de usuarios, permisos y sesiones;
+- proveedores, documentos, obligaciones y pagos;
+- gastos y respaldos de caja chica;
+- diagramas de casos de uso **CU42 a CU86**;
+- diagramas de secuencia, backlog y evidencias de interfaz;
+- presentación del incremento.
+
+## Incremento 3
+
+El tercer incremento documenta honorarios, remuneraciones, análisis financiero gerencial y gestión de crédito.
+
+### Contenido principal
+
+- registro, confirmación, pago, anulación y reversión de honorarios;
+- empleados, sueldo base, remuneración variable y tarifas versionadas;
+- bonos, deducciones, retrabajos y liquidaciones;
+- panel general y análisis financieros;
+- solicitudes, resolución, cupos y límites de crédito;
+- diagramas de casos de uso y de secuencia **CU87 a CU119** correspondientes al alcance del incremento;
+- backlog, modelos técnicos, árbol de navegación y presentación.
+
+## Incremento 4
+
+El cuarto incremento completa la documentación de análisis financiero y auditoría del sistema.
+
+### Contenido principal
+
+- cuentas por cobrar, liquidez y proyección de liquidez;
+- margen directo por proyecto y umbral de margen crítico;
+- historial, detalle y exportación de auditoría;
+- diagramas de casos de uso y de secuencia **CU107, CU109 a CU112 y CU120 a CU122**;
+- manual de instalación y despliegue;
+- manual de usuario;
+- carta de aceptación, estimación de costos, backlog y modelos técnicos;
+- presentación del incremento;
+- referencias a las evidencias audiovisuales alojadas en Google Drive.
+
 ---
 
 ## Organización del repositorio
@@ -109,13 +162,29 @@ Grupo18-SistemaFinanciero-PuertasBlindadas-Documentacion/
 │   ├── CV/
 │   ├── Documento 0 _v1.docx
 │   └── Sistema Financiero Puertas Blindadas.pptx
-└── Incremento 1/
-    ├── Anexo/
+├── Incremento 1/
+│   ├── Anexo/
+│   ├── Diagramas Casos de Uso/
+│   ├── Diagramas de Secuencia/
+│   ├── Retrospectiva/
+│   ├── Informe Incremento 1_ULTRADEFINITIVO.docx
+│   └── Puertas Blindadas Sistema financiero.pptx
+├── Incremento 2/
+│   ├── Anexos/
+│   ├── Diagrama Casos de Uso/
+│   ├── Diagramas de Secuencia/
+│   └── Puertas Blindadas Sistema financiero.pptx
+├── Incremento 3/
+│   ├── Anexos/
+│   ├── Diagramas Caso Uso/
+│   ├── Diagramas Secuencia/
+│   └── Puertas Blindadas Sistema financiero.pptx
+└── Incremento 4/
+    ├── Anexos/
     ├── Diagramas Casos de Uso/
     ├── Diagramas de Secuencia/
-    ├── Retrospectiva/
-    ├── Informe Incremento 1_ULTRADEFINITIVO.docx
-    └── Puertas Blindadas Sistema financiero.pptx
+    ├── Videos/
+    └── Puertas Blindadas Sistema financiero Incremento 4.pptx
 ```
 
 ## Formatos utilizados
@@ -127,6 +196,9 @@ Grupo18-SistemaFinanciero-PuertasBlindadas-Documentacion/
 | `.xlsx` | Planificación, backlog y análisis | Microsoft Excel o LibreOffice Calc |
 | `.drawio` | Diagramas técnicos y funcionales | [diagrams.net](https://app.diagrams.net/) |
 | `.png` | Evidencias e imágenes de apoyo | Visor de imágenes o navegador |
+| `.pdf` | Cartas, informes y documentos finales | Lector PDF o navegador |
+| `.xml` | Modelos y definiciones técnicas | Editor XML o herramienta de origen |
+| `.md` | Índices y referencias complementarias | GitHub o editor Markdown |
 
 ## Relación con el sistema
 
