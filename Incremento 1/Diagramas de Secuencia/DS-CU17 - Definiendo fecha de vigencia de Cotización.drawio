@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="PKXlCHE75f_Ih7tMaJgo">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Usuario Autorizado&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Gerencia o Secretaria&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="31.69" x="300" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=90;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="10" width="588.99" x="21.35" y="729.51" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;fontFamily=Times New Roman;" value="&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;v_Cotizacion&lt;/font&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="194.5" x="506.34000000000003" y="399.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=90;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="10" width="599.99" x="303.62" y="734.98" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontSize=14;fontFamily=Times New Roman;" value="&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;c_Finanzas&lt;/font&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="205" x="831" y="400.0099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-6" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="599.99" width="10" x="928.5" y="440.01" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-7" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="599.99" width="10" x="1212.5" y="440.01" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontSize=14;fontFamily=Times New Roman;" value="&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;c_Cotizacion&lt;/font&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="205" x="1115" y="400.0099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-9" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="599.99" width="10" x="1504.5" y="441.01" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#000000;strokeColor=#C73500;fontSize=14;fontFamily=Times New Roman;" value="&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;c_PrismaORM&lt;/font&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="205" x="1407" y="401.0099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;cotizacion&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="165" x="1703.9999999999998" y="401.0099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-12" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;fontSize=14;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="588.99" width="10" x="1781.5" y="441.01" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;exitX=0.054;exitY=-0.338;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;fontFamily=Times New Roman;" target="Y39pS5eG0d-ieRf14ewO-6" value="enviarSolicitudFechaVigencia()">
+          <mxGeometry relative="1" x="-0.0008" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="611.9949999999999" y="510.0044600000002" as="sourcePoint" />
+            <mxPoint x="990" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;entryX=0.036;entryY=1.152;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.037;exitY=-0.353;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;fontFamily=Times New Roman;" value="ingresaFechaVigencia()">
+          <mxGeometry relative="1" x="0.0014" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="325.89499999999975" y="490.22763000000003" as="sourcePoint" />
+            <mxPoint x="598.6149999999998" y="490.00464000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;edgeStyle=orthogonalEdgeStyle;fontSize=14;fontFamily=Times New Roman;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="540.03" />
+              <mxPoint x="971" y="570.03" />
+            </Array>
+            <mxPoint x="941" y="540" as="sourcePoint" />
+            <mxPoint x="938.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-16" connectable="0" parent="Y39pS5eG0d-ieRf14ewO-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" value="validarAutorizacionUsuario()" vertex="1">
+          <mxGeometry relative="1" x="0.0607" y="-1" as="geometry">
+            <mxPoint x="92" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;Fecha de vigencia inválida&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="179.15" x="380" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-20" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=14;fontFamily=Times New Roman;" value="Exc1" vertex="1">
+          <mxGeometry height="94.85" width="1620" x="230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-21" edge="1" parent="1" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" value="fechaVigenciaActualizada">
+          <mxGeometry relative="1" x="-0.0173" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1781.5" y="880" as="sourcePoint" />
+            <mxPoint x="1512" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-58" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" value="delegarSolicitudFechaVigencia()">
+          <mxGeometry relative="1" x="0.0017" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="943.5" y="600.15" as="sourcePoint" />
+            <mxPoint x="1212" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;edgeStyle=orthogonalEdgeStyle;fontSize=14;fontFamily=Times New Roman;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="620.03" />
+              <mxPoint x="1255" y="650.03" />
+            </Array>
+            <mxPoint x="1225" y="620" as="sourcePoint" />
+            <mxPoint x="1222.5" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-60" connectable="0" parent="Y39pS5eG0d-ieRf14ewO-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" value="validarFechaPosteriorAActual()" vertex="1">
+          <mxGeometry relative="1" x="0.0607" y="-1" as="geometry">
+            <mxPoint x="106" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" value="registrarFechaVigenciaCotizacion()">
+          <mxGeometry relative="1" x="0.0017" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1229" y="810.15" as="sourcePoint" />
+            <mxPoint x="1497.5" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" value="actualizarFechaVigencia()">
+          <mxGeometry relative="1" x="-0.0006" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1514.5" y="830.15" as="sourcePoint" />
+            <mxPoint x="1783" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-63" edge="1" parent="1" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;entryX=0.95;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=Times New Roman;" value="confirmacionPersistencia">
+          <mxGeometry relative="1" x="-0.0186" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1504.5" y="900" as="sourcePoint" />
+            <mxPoint x="1222" y="900.4100000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-64" edge="1" parent="1" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" value="resultadoFechaVigencia">
+          <mxGeometry relative="1" x="-0.0206" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1211" y="920" as="sourcePoint" />
+            <mxPoint x="942" y="920.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-65" edge="1" parent="1" source="Y39pS5eG0d-ieRf14ewO-6" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;entryX=0.853;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=Times New Roman;" target="Y39pS5eG0d-ieRf14ewO-4" value="mostrarResultadoFinal(resultadoFechaVigencia)">
+          <mxGeometry relative="1" x="-0.0207" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1020" y="951.78" as="sourcePoint" />
+            <mxPoint x="740" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-66" edge="1" parent="1" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" target="Y39pS5eG0d-ieRf14ewO-6" value="fechaVigenciaInvalida">
+          <mxGeometry relative="1" x="-0.0184" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1212.5" y="710" as="sourcePoint" />
+            <mxPoint x="943.5" y="710.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y39pS5eG0d-ieRf14ewO-67" edge="1" parent="1" source="Y39pS5eG0d-ieRf14ewO-6" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;align=center;verticalAlign=bottom;entryX=0.482;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=Times New Roman;" target="Y39pS5eG0d-ieRf14ewO-4" value="mostrarMensaje(&quot;Fecha de vigencia inválida,&amp;nbsp;&lt;div&gt;corresponde al día actual o a una fecha anterior&quot;)&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.0191" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="1010" y="729.18" as="sourcePoint" />
+            <mxPoint x="813" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
