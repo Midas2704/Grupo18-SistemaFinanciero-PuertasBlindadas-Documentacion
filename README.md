@@ -7,7 +7,7 @@ Aquí se conservan los informes, presentaciones, anexos, diagramas, planificaci�
 ## Enlaces principales
 
 - [Código fuente e instalación local](https://github.com/Midas2704/Grupo18-SistemaFinanciero-PuertasBlindadas-Codigo)
-- [Videos del proyecto en Google Drive](https://drive.google.com/drive/folders/1nIOSszndorqv3yAJyGFA_PyQMp66Nx0A?usp=drive_link)
+- [Videos del proyecto en Google Drive](https://drive.google.com/drive/folders/10XG32U7vbEGat61P43QDJm6zSbIfugd_?usp=sharing)
 
 ## Integrantes
 
