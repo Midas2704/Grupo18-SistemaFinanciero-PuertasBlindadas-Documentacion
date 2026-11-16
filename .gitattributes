@@ -2,3 +2,6 @@ Incremento[[:space:]]4/Videos/Video_Testimonial.mov filter=lfs diff=lfs merge=lf
 Incremento[[:space:]]4/Videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Incremento[[:space:]]2/Videos/Presentacion_Incremento_2.mp4 filter=lfs diff=lfs merge=lfs -text
 Incremento[[:space:]]3/Videos/Presentacion_Incremento_3.mp4 filter=lfs diff=lfs merge=lfs -text
+Incremento[[:space:]]1/Videos/Video_traza_pagina.mp4 filter=lfs diff=lfs merge=lfs -text
+Incremento[[:space:]]2/Videos/Video_traza_pagina.mp4 filter=lfs diff=lfs merge=lfs -text
+Incremento[[:space:]]3/Videos/Video_traza_pagina.mp4 filter=lfs diff=lfs merge=lfs -text
